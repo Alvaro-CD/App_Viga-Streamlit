@@ -4,7 +4,7 @@ from anastruct import SystemElements
 
 # Configuración de la página
 st.set_page_config(page_title="Viga Biapoyada - AnaStruct", layout="wide")
-st.title("📊 Análisis de Viga Biapoyada con Carga Puntual")
+st.title("📊 Análisis de Viga Biapoyada con Carga Puntual. Segundo Commit")
 st.write(
     "Introduce los parámetros en la barra lateral para calcular los esfuerzos."
 )
